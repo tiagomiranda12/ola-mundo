@@ -1,2 +1,6 @@
 # ola-mundo
-Repositório de teste no github
+Repositório de teste no github.
+
+Esse repositório serve para testes.
+
+
